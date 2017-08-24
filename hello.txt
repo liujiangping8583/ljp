@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 hello--bug2
-content--bug2
-=======
-hello
 content--bug1
->>>>>>> bug1
